@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0">
+  <channel>
+    <title>Caso práctico 3 Unidad 3</title>
+    <link>http://www.lmsgi.com</link>
+    <description>Caso práctico 3 Creación de un canal RSS</description>
+    <language>es</language>
+
+    <image>
+      <title>Caso práctico 3 Unidad 3</title>
+      <url>http://www.lmsgi.com/UD3/cp3.png</url>
+      <link>http://www.lmsgi.com</link>
+      <width>60</width>
+      <height>60</height>
+      <description>Caso práctico 3 Creación de un canal RSS</description>
+    </image>
+
+    <item>
+       <title>Punto1</title>
+       <link>http://www.aemet.es/es/eltiempo/prediccion/municipios/tavernes-de-la-valldigna-id46238</link>
+       <description>Predicción por municipios. Tavernes de la Valldigna</description>
+       <guid>http://www.lmsgi.com/UD3/03</guid>
+    </item>  
+
+    <item>
+       <title>Punto2</title>
+       <link> http://www.lmsgi.com/UD3/caso_practico_3_noticia.html</link>
+       <description>Resumen de la noticia</description>
+      <guid>http://www.lmsgi.com/UD3/04</guid>
+    </item>
+  </channel>
+</rss>
